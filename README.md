@@ -1,4 +1,6 @@
-### Hi, I'm Chelsea Ongjoco, aka Paymvi (thats my gamer name!) 👋
+### 👋 Hello! I'm Chelsea Ongjoco, aka Paymvi (thats my gamer name!) 
+
+I'm currently aspiring to become a software engineer, as I love to build and create!
 
 <!--
 **Paymvi/Paymvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

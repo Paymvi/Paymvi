@@ -4,7 +4,7 @@ I'm currently aspiring to become a software engineer, as I love to build and cre
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/chelsea-alysson-ongjoco/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-alysson-ongjoco/)
 
 <!--
 **Paymvi/Paymvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

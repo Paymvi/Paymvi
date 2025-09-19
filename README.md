@@ -3,8 +3,8 @@
 I'm currently aspiring to become a software engineer, as I love to build and create!
 
 ## 🤝 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-alysson-ongjoco/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c.ongjoco/)
 
 <!--
 **Paymvi/Paymvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

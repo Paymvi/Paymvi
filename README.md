@@ -2,6 +2,13 @@
 
 I'm currently aspiring to become a software engineer, as I love to build and create!
 
+My most noteable projects:
+- Ecommerce Website: Next.js + Tailwind CSS + Typescript + Stripe
+- Google Map Clone: Vite + React.js + APIs (OpenStreetMap, Open-Meteo, Wikidata)
+- Walmart/Fairlife Hybrid Website: HTML + CSS
+- 2D RPG Game: Unity + Capcut + ElevenLabs
+- Mobile App: Android Studio + Kotlin + FireStore
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-alysson-ongjoco/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c.ongjoco/)

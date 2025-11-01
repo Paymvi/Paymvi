@@ -9,11 +9,13 @@ My most noteable projects:
 - 2D RPG Game: Unity + Capcut + ElevenLabs
 - Mobile App: Android Studio + Kotlin + FireStore
 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paymvi&layout=compact&theme=dark)
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-alysson-ongjoco/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c.ongjoco/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paymvi&layout=compact)
 
 <!--
 **Paymvi/Paymvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

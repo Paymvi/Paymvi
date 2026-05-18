@@ -3,6 +3,9 @@
 I'm currently aspiring to become a software engineer, as I love to build and create!
 
 My most noteable projects:
+- Roamie: React + PostgreSQL + Geolocation
+- Velo Running App: React + JavaScript + Strava API
+- Chess App with AI Tutor: React + TypeScript + Stockfish + OpenAI API  
 - Ecommerce Website: Next.js + Tailwind CSS + Typescript + Stripe
 - Google Map Clone: Vite + React.js + APIs (OpenStreetMap, Open-Meteo, Wikidata)
 - Walmart/Fairlife Hybrid Website: HTML + CSS

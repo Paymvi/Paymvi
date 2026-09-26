@@ -1,8 +1,11 @@
-### 👋 Hello! I'm Chelsea Ongjoco, aka Paymvi (thats my gamer name!) 
+## 👋 Hello! I'm Chelsea Ongjoco, aka Paymvi (thats my gamer name!) 
+### I am an onsite software engineer at Toah Nipi Retreat Center, and I love building and creating!
 
-I'm currently aspiring to become a software engineer, as I love to build and create!
-
-My most noteable projects:
+### My most noteable projects:
+### Toah Nipi
+- Public Website: Production React website built to replace and expand upon the organization’s previous Squarespace site: React + JavaScript + Vite
+- Retreat Management & Booking Platform: Full-stack internal operations system for managing retreat inquiries, bookings, lodging assignments, meals, activities, contracts, reports, contacts, and portals: Built with React + JavaScript + Vite + Supabase
+### University:
 - Roamie: React + PostgreSQL + Geolocation
 - Velo Running App: React + JavaScript + Strava API
 - Chess App with AI Tutor: React + TypeScript + Stockfish + OpenAI API  

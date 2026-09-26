@@ -2,9 +2,10 @@
 ### I am an onsite software engineer at Toah Nipi Retreat Center, and I love building and creating!
 
 ### My most noteable projects:
-### Toah Nipi
+### Toah Nipi Retreat Center [professional projects]:
 - Public Website: Production React website built to replace and expand upon the organization’s previous Squarespace site: React + JavaScript + Vite
 - Retreat Management & Booking Platform: Full-stack internal operations system for managing retreat inquiries, bookings, lodging assignments, meals, activities, contracts, reports, contacts, and portals: Built with React + JavaScript + Vite + Supabase
+- Document OCR & Data Extraction Tool: Built a Python-based tool that uses AI vision to read handwritten documents, extract relevant information, and convert it into structured data. Python + Gemini API
 ### University:
 - Roamie: React + PostgreSQL + Geolocation
 - Velo Running App: React + JavaScript + Strava API

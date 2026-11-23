@@ -1,40 +1,54 @@
-## 👋 Hello! I'm Chelsea Ongjoco, aka Paymvi (thats my gamer name!) 
-### I am an onsite software engineer at Toah Nipi Retreat Center, and I love building and creating!
+# Hi, I'm Chelsea 👋
 
-### My most noteable projects:
-### Toah Nipi Retreat Center [professional projects]:
-- Public Website: Production React website built to replace and expand upon the organization’s previous Squarespace site: React + JavaScript + Vite
-- Retreat Management & Booking Platform: Full-stack internal operations system for managing retreat inquiries, bookings, lodging assignments, meals, activities, contracts, reports, contacts, and portals: Built with React + JavaScript + Vite + Supabase
-- Document OCR & Data Extraction Tool: Built a Python-based tool that uses AI vision to read handwritten documents, extract relevant information, and convert it into structured data. Python + Gemini API
-### University:
-- Roamie: React + PostgreSQL + Geolocation
-- Velo Running App: React + JavaScript + Strava API
-- Chess App with AI Tutor: React + TypeScript + Stockfish + OpenAI API  
-- Ecommerce Website: Next.js + Tailwind CSS + Typescript + Stripe
-- Google Map Clone: Vite + React.js + APIs (OpenStreetMap, Open-Meteo, Wikidata)
-- Walmart/Fairlife Hybrid Website: HTML + CSS
-- 2D RPG Game: Unity + Capcut + ElevenLabs
-- Mobile App: Android Studio + Kotlin + FireStore
+Software Engineer at **Toah Nipi Retreat Center** · Computer Science graduate · Known online as **Paymvi**
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paymvi&layout=compact&theme=dark)
+I love turning ideas into useful software—from tools that simplify everyday work to apps built around hobbies. My work spans full-stack development, interface design, and automation.
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-alysson-ongjoco/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/c.ongjoco/)
+At Toah Nipi, I work directly with staff to understand their needs and build software that supports the retreat center’s operations.
 
+[LinkedIn](https://www.linkedin.com/in/chelsea-alysson-ongjoco/) · [Instagram](https://www.instagram.com/c.ongjoco/)
 
-<!--
-**Paymvi/Paymvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Work
 
-Here are some ideas to get you started:
+### 🏕️ Retreat Management & Booking Platform
+An internal platform that brings retreat inquiries, bookings, lodging assignments, meal planning, activities, contracts, reporting, contacts, and guest portals into one system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Built with:** React · JavaScript · Vite · Supabase
+
+### 🌐 Toah Nipi Public Website
+A production website built to replace and expand the organization’s previous Squarespace site, helping visitors explore the retreat center and plan their stay.
+
+**Built with:** React · JavaScript · Vite
+
+### 📄 Document OCR & Data Extraction
+A tool that uses AI vision to read handwritten documents, extract relevant information, and turn it into structured data.
+
+**Built with:** Python · Gemini API
+
+## More Projects
+
+| Project | What I Built | Technologies |
+| --- | --- | --- |
+| **Roamie** | A location-based application and university capstone project | React · PostgreSQL · Geolocation |
+| **Velo** | A running app with Strava integration | React · JavaScript · Strava API |
+| **Chess App with AI Tutor** | A chess application combining engine analysis and AI tutoring | React · TypeScript · Stockfish · OpenAI API |
+| **Ecommerce Website** | An online storefront with Stripe integration | Next.js · TypeScript · Tailwind CSS · Stripe |
+| **Google Maps Clone** | A map application using open mapping, weather, and knowledge APIs | React · Vite · OpenStreetMap · Open-Meteo · Wikidata |
+
+Other projects include a **Unity 2D RPG**, a **Kotlin Android app with Firestore**, and a **Walmart/Fairlife-inspired website**.
+
+## My Toolkit
+
+**Languages:** JavaScript · TypeScript · Python · C# · Java · C++ · SQL · Kotlin  
+**Web:** React · Next.js · Vite · HTML · CSS · Tailwind CSS  
+**Data & Tools:** Supabase · PostgreSQL · Git · Android Studio · Unity
+
+## A Little About Me
+
+🎓 B.S. in Computer Science, Southern New Hampshire University — **3.99 GPA**  
+🛠️ I enjoy building tools that solve problems I encounter at work and in everyday life.  
+🎮 My gamer name is **Paymvi**!
+
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paymvi&layout=compact&theme=dark&hide_border=true)

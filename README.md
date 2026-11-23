@@ -1,6 +1,7 @@
 # Hi, I'm Chelsea 👋
 
-### 💻 Software Engineer · 🎓 B.S. in CS @ Southern New Hampshire University (Summa Cum Laude 3.99 GPA)
+### 💻 Software Engineer · 🎓 B.S. in CS @ Southern New Hampshire University 
+· (Summa Cum Laude 3.99 GPA)
 
 I'm an onsite Software Engineer at **Toah Nipi Retreat Center**, where I turn everyday operational needs into useful software.
 My work spans full-stack development, interface design, and automation.
